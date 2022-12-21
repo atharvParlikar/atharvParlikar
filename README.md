@@ -15,4 +15,4 @@ username=atharvParlikar&theme=dark&hide_border=false&include_all_commits=false&c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atharvParlikar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=atharvParlikar&icon=0&color=0)](https://visitcount.itsvg.in)
