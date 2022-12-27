@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on disk-cleaner<br>🌱 I’m currently learning rust 🦀<br>💬 Ask me about web<br>⚡ Fun fact: longest time I've coded is 12 hrs straight
+🔭 I’m currently working on my personal portfolio<br>🌱 I’m currently learning rust 🦀<br>💬 Ask me about web<br>⚡ Fun fact: longest time I've coded is 12 hrs straight
 
 
 ## 🌐 Socials:
