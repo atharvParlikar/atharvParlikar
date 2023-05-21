@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Neural Net library NeuraForge<br>🌱 I’m currently learning rust 🦀<br>💬 Ask me about web<br>⚡ Fun fact: longest time I've coded is 12 hrs straight
+🔭 I’m currently working on a Neural Net library NeuraForge<br>🌱 I’m currently learning Deep Learning 🧠📚🔬<br>💬 Ask me about web<br>⚡ Fun fact: longest time I've coded is 12 hrs straight
 
 
 ## 🌐 Socials:
